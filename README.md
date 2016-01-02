@@ -1,2 +1,2 @@
-# nodeapp
-Node application for the website
+# nodeui
+React application for the website
